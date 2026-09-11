@@ -1,0 +1,6 @@
+{
+  "name": "Dharohar - Indian Heritage & Architecture Guide",
+  "description": "Comprehensive guide to Indian historical monuments and architectural wonders with interactive 360° virtual tours, detailed historical context, interactive maps, offline access, multilingual guides, and travel planning.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
